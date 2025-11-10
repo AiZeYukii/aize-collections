@@ -1,0 +1,9 @@
+name: Aize-Collections
+version: '1.0-DEV'
+main: ru.vitunet.aizeCollections.AizeCollections
+api-version: '1.21'
+commands:
+  collections:
+    description: "Open collections"
+    usage: "/collections"
+    permission: "aizecollections.open"
