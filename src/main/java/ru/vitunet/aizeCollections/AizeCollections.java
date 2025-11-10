@@ -8,7 +8,7 @@ public final class AizeCollections extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        // Plugin startup logic1
         System.out.println("[Aize collections] Plugin enabled");
 
         getServer().getPluginManager().registerEvents(new PlayerListener(), this);
